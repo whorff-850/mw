@@ -1,2 +1,2 @@
-# mw
-My personal website
+# WM
+My personal website.
